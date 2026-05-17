@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-i18n.
+
 # think-i18n
 
 [![Build Status](https://travis-ci.org/thinkjs/think-i18n.svg?branch=master)](https://travis-ci.org/thinkjs/think-i18n)
